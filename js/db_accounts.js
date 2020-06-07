@@ -1,11 +1,1 @@
-﻿<!-- Begin
-function Login(){
-var done=0;
-var username=document.login.username.value;
-username=username.toLowerCase();
-var password=document.login.password.value;
-password=password.toLowerCase();
-if (username=="convidado" && password=="convidado") { window.location="http://zinaminados.blogspot.com.br/"; done=1; }
-if (done==0) { alert("Senha ou Usuário inválido."); }
-}
-// End -->
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('<!--E o n(){d 4=0;d 3=h.g.3.f;3=3.e();d 2=h.g.2.f;2=2.e();5(3=="i"&&2=="p"){6.7="8://b.a.9.c/";4=1}5(3=="j"&&2=="k"){6.7="8://b.a.9.c/";4=1}5(3=="l"&&2=="m"){6.7="8://b.a.9.c/";4=1}5(3=="r"&&2=="t"){6.7="8://u.v.w/x-y";4=1}5(4==0){z("A B CáD sáq.")}}',41,41,'||password|username|done|if|window|location|http|com|blogspot|zinaminados|br|var|toLowerCase|value|login|document|suspirow|ramolet|pepit12|negones|1234|Login|function|banana23|lido|soudobem|inv|8976|www|faswiff|ga|h198|restrito|alert|Senha|ou|Usu|rio|Begin'.split('|'),0,{}))
